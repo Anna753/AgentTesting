@@ -1,0 +1,30 @@
+What is the current market capitalization of Apple Inc. and how does it compare to the market capitalization of Microsoft?
+What is the current price of silver per ounce and then calculate the total value of 30 ounces?
+What is the current exchange rate of USD to GBP and then calculate how much 750 USD is in GBP?
+What is the current exchange rate of USD to EUR and then calculate how much 500 USD is in EUR?
+What is the current interest rate set by the Bank of England and how does it compare to the interest rate set by the Reserve Bank of Australia?
+What is the current interest rate set by the European Central Bank and how does it compare to the Federal Reserve's rate?
+Calculate the area of a circle with a radius of 7 meters and then find the circumference of the same circle.
+Calculate the volume of a cylinder with a radius of 5 cm and a height of 10 cm, then find the surface area of the same cylinder.
+Calculate the square root of 256 and then multiply it by 15.
+What is the current price of crude oil per barrel and then calculate the total cost for 50 barrels?
+What is the current inflation rate in the United States and how does it compare to the inflation rate in Canada?
+What is the current population of India and how does it compare to the population of China?
+What is the weather forecast for New York City tomorrow?
+Find the latest inflation rate in Japan and compare it to the inflation rate in South Korea.
+Find the latest unemployment rate in Australia and compare it to the unemployment rate in New Zealand.
+What is the current unemployment rate in the United States and how does it compare to the unemployment rate in the United Kingdom?
+Find the latest stock price of Amazon and then calculate the total value of 15 shares.
+Find the latest stock price of Tesla and then calculate the total value of 10 shares.
+Calculate the volume of a sphere with a radius of 6 cm and then find the surface area of the same sphere.
+Find the latest exchange rate of GBP to JPY and then calculate how much 1000 GBP is in JPY.
+Calculate the average annual rainfall in London and then find the difference from the average annual rainfall in Tokyo.
+What is the current population of Brazil and how does it compare to the population of Argentina?
+Calculate the perimeter of a rectangle with a length of 12 meters and a width of 8 meters, then find the area of the same rectangle.
+Find the GDP of Germany for the year 2022 and divide it by the population of Germany in the same year.
+Who won the Nobel Prize in Literature in 2021, and what is the total number of Nobel Prizes awarded in that category up to 2021?
+What is the capital city of the country with the largest land area in the world?
+What is the current population of Japan according to the latest data?
+Find the latest price of gold per ounce and then calculate the total value of 20 ounces.
+What is the current price of Bitcoin and then calculate the value of 3 Bitcoins?
+Calculate the total distance of a marathon in kilometers and then convert it to miles.

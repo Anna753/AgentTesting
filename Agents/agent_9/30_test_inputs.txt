@@ -1,0 +1,30 @@
+What is the current stock price of a private company that has not disclosed its financials publicly?
+Calculate the square root of the current population of New York City.
+What is the distance between the Earth and Mars today, and how long would it take to travel there at 25,000 miles per hour?
+Search for the latest news on the James Webb Space Telescope and calculate the time it would take for light to travel from the telescope to Earth if it is 1.5 million kilometers away.
+Find the population of Tokyo as of the latest census and determine the population density if the city covers an area of 2,194 square kilometers.
+What is the GDP of Germany and calculate the GDP per capita if the population is 83 million?
+Find the latest research paper on a topic that has not been published or indexed online yet.
+What is the current stock price of a company that was delisted last year?
+Search for the weather forecast for a location that is not recognized by any mapping service.
+Search for the latest weather forecast for New York City and calculate the average temperature if the forecast predicts 72°F, 75°F, and 78°F over the next three days.
+Search for the latest GDP growth rate of China and calculate its impact on a $1 trillion economy.
+What is the current exchange rate of USD to EUR, and how much would 500 USD be in EUR?
+What is the current stock price of Tesla and calculate the percentage increase if it rises by $50?
+Find the latest stock price of Apple Inc. and calculate the percentage increase if it rises by 5%.
+What is the current population of Tokyo, Japan, and what is the square root of that number?
+Determine the current weather conditions on a planet outside our solar system.
+Calculate the square root of a negative number using the LLM math tool.
+Find the distance between Los Angeles and San Francisco and calculate the time it would take to travel by car at an average speed of 65 miles per hour.
+What is the current exchange rate of USD to EUR, and how much would 500 USD be in EUR?
+What is the current stock price of Tesla, and what would be the total value of 150 shares?
+Calculate the square root of a negative number using real number arithmetic.
+Find the latest weather forecast for Tokyo and determine the average temperature for the next three days.
+What is the distance between New York City and Los Angeles in miles, and how many kilometers is that?
+What is the exact number of grains of sand on a specific beach that has never been measured?
+Search for the latest Nobel Prize winner in Physics and determine the cube of the year they won.
+Search for the latest weather forecast in New York City and determine how much the temperature will change if it drops by 5 degrees Celsius.
+Find the population of Tokyo and then calculate the population density if the city covers an area of 2,194 square kilometers.
+Find the latest news article about a person who has no online presence or public records.
+What is the current stock price of Tesla, and how much would 100 shares cost?
+What is the result of dividing a number by zero using the LLM math tool?
