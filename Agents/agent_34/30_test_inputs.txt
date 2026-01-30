@@ -1,0 +1,30 @@
+Write a Python program to count the number of vowels in a given string.
+Calculate the factorial of 10 and return the result.
+Write a Python function to compress a large text file using gzip and return the size of the compressed file.
+Divide a number by zero and return the result.
+Generate a list of Fibonacci numbers up to the 15th term.
+Write a Python function to reverse a string and return the reversed string.
+Implement a Python script to connect to a database and retrieve all records from a specified table.
+Write a Python script to generate a random password of length 12 with at least one uppercase letter, one lowercase letter, one digit, and one special character.
+Create a Python function to calculate the inverse of a 3x3 matrix with random float values.
+Write a Python function to check if a given number is a prime number.
+Create a Python program to solve a complex mathematical equation using numerical methods.
+Develop a Python program to fetch data from a public API and parse the JSON response.
+Develop a Python script to perform image processing on a high-resolution image and return the dimensions.
+Convert a string that contains non-numeric characters to an integer.
+Calculate the determinant of a 5x5 matrix with random integer values.
+Implement a Python script to perform sentiment analysis on a given text using a pre-trained model.
+Calculate the sum of all even numbers in a list of integers from 1 to 100.
+Write a Python script to read a CSV file with missing values and fill them with the column mean.
+Implement a Python function to find the longest word in a given list of words.
+Calculate the square root of a negative number using Python.
+Implement a Python function to process a large CSV file and return the average of a specific column.
+Open a non-existent file and read its contents.
+Simulate a long-running computation by calculating the sum of all prime numbers below 10 million.
+Develop a Python program to read a JSON file and extract all unique keys.
+Create a Python function to simulate a dice roll and return the result for 1000 rolls.
+Create a Python script to merge two dictionaries and return the merged dictionary.
+Write a Python script to perform a web scraping task on a large dataset from a public website.
+Write a Python program to find the greatest common divisor (GCD) of two numbers, 48 and 180.
+Access an index that is out of range in a list.
+Create a Python script to sort a list of integers in ascending order.

@@ -1,0 +1,30 @@
+Calculate the probability of rolling a sum of 7 with two six-sided dice, and explain its significance in game theory.
+Calculate the sum of the first 100 prime numbers and discuss its significance in number theory.
+What is the population of Atlantis according to the latest census data?
+What are the main differences between the theories of general relativity and quantum mechanics, and how do they impact modern physics?
+What is the latest research on the effects of microplastics in marine ecosystems, and how are they being addressed?
+What are the main differences between AC and DC electricity, and how do they affect modern electrical engineering?
+What are the main causes and effects of the Chernobyl disaster, and how has it impacted nuclear policy worldwide?
+Calculate the square root of 144 and explain its relevance in mathematics.
+What are the main historical events that led to the fall of the Berlin Wall, and how did it impact European politics?
+Who was the inventor of the World Wide Web, and what were the key milestones in its development?
+What is the capital city of France, and can you provide a brief history of its significance?
+Who was the lead scientist behind the Human Genome Project, and what were the major breakthroughs achieved?
+Calculate the volume of a sphere with a diameter of 10 units and explain its significance in geometry.
+Who was the primary author of the Declaration of Independence, and what were the key influences on its drafting?
+Calculate the integral of the function f(x) = 2x^2 - 3x + 1 over the interval [0, 3] and discuss its applications in engineering.
+What is the chemical composition of unobtainium, and how is it used in modern technology?
+What is the current status of the James Webb Space Telescope, and what are its primary scientific goals?
+Calculate the derivative of the function f(x) = 3x^3 - 5x^2 + 6x - 2 and explain its significance in calculus.
+Calculate the circumference of an ellipse with semi-major axis of 10 units and semi-minor axis of 5 units, and discuss its applications in astronomy.
+Calculate the probability of drawing an ace from a standard deck of cards, and explain its relevance in probability theory.
+Can you provide a detailed history of the Battle of Hogwarts and its impact on world history?
+Who was the architect of the Eiffel Tower, and what were the main challenges faced during its construction?
+What is the current status of the Mars Rover Perseverance, and what are its primary scientific objectives?
+Can you provide a summary of the life and achievements of Marie Curie?
+Who is the current president of the United States, and what are their policies on intergalactic travel?
+Who was the first person to walk on the moon, and what was the mission called?
+What are the primary causes of climate change, and how have international policies evolved to address this issue?
+What is the formula for calculating the area of a circle, and how would you apply it to a circle with a radius of 5 units?
+Calculate the factorial of -5 and explain its significance in mathematics.
+Calculate the limit of the function f(x) = (2x^2 - 4x + 1)/(x - 2) as x approaches 2, and explain its importance in calculus.

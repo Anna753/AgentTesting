@@ -1,0 +1,30 @@
+List projects in San Francisco that are currently open.
+Find projects managed by someone with the last name "Brown".
+List all projects that are open and have a start date in February 2023.
+Show all projects located in New York that have a due date before May 2023.
+Find projects that have a start date before 2023-01-01.
+Find all projects that are closed and located in Omaha.
+Who is responsible for the "Internal Chatbot" project?
+Find all projects that are open and located in Omaha.
+List projects that have a due date after 2023-06-01.
+List all projects with the status "Completed".
+Show projects that started in January 2023 and are still open.
+Show projects managed by someone named "Emily Clark".
+Which projects are in progress in New York?
+Show me projects that started in April 2023.
+Who is managing the project "Vendor Integration"?
+Who is managing the project "Budget Forecast Tool"?
+List projects that have a start date in March 2023 and are currently closed.
+Which projects are open and have a start date in January 2023?
+Which projects have a due date in December 2023?
+Find all projects managed by Alice Smith.
+Which projects are due in April 2023 and are currently in progress?
+Who is managing the project "Sales Forecasting"?
+Show projects managed by someone named "John Doe".
+Find all closed projects in Chicago.
+Which projects are owned by Grace Lee?
+List projects that have a due date in June 2023 and are currently open.
+Show projects that started in February 2023 and are managed by Bob Johnson.
+Find all projects that are in progress and located in San Francisco.
+What projects are due in March 2023?
+Which projects are due in May 2023 and are currently open?
