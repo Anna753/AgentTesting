@@ -1,0 +1,30 @@
+What is the current price of crude oil per barrel, and calculate the total cost for purchasing 100 barrels?
+What is the current exchange rate of GBP to JPY, and how much is 1000 GBP in JPY?
+What is the current population of Sydney, Australia, and calculate 10% of that number?
+Calculate the result of 15% of 250.
+What is the current interest rate set by the Federal Reserve, and how much interest would accrue on a $10,000 deposit over one year at that rate?
+Search for the latest developments in renewable energy technology and calculate the energy output if a solar panel generates 250 watts per hour for 6 hours.
+What is the current price of gold per ounce, and calculate the value of 10 ounces in USD?
+What is the current price of Bitcoin, and how much would 0.5 Bitcoin be worth in USD?
+Find the latest news about the James Webb Space Telescope and calculate the time it takes for light to travel from the telescope to Earth if it is 1.5 million kilometers away.
+What is the latest stock price of Apple Inc.?
+Search for the latest developments in electric vehicle technology and calculate the range of a vehicle that uses 15 kWh per 100 km with a 75 kWh battery.
+What is the current inflation rate in Japan, and how much would a product costing 2000 JPY increase in price with that rate?
+What is the current unemployment rate in the United States, and how many people are unemployed if the labor force is 160 million?
+Find the latest news about the global semiconductor shortage and calculate the percentage decrease in production if output drops from 1 million units to 800,000 units.
+What is the current unemployment rate in Canada, and how many people are unemployed if the labor force is 20 million?
+Find the latest news about the International Space Station and calculate the time it takes to orbit Earth if it travels at 28,000 km/h.
+What is the current interest rate for a 30-year fixed mortgage in the United States, and how much would the monthly payment be on a $300,000 loan at that rate?
+What is the current population of Tokyo, Japan?
+Find the latest news about the Mars Rover mission and calculate the distance it has traveled if it moves at 0.1 km/h for 24 hours.
+What is the square root of 144, and who is the current Prime Minister of the United Kingdom?
+What is the current inflation rate in Germany, and how much would a product costing 100 EUR increase in price with that rate?
+Search for the latest Nobel Prize winners in Physics and calculate the average age of the winners if their ages are 55, 60, and 65.
+What is the GDP of France in 2023, and calculate 20% of that value.
+What is the current exchange rate of USD to EUR, and how much is 500 USD in EUR?
+What is the current interest rate for a 5-year fixed deposit in Canada, and how much interest would accrue on a $5,000 deposit over five years at that rate?
+What is the current exchange rate of AUD to CAD, and how much is 750 AUD in CAD?
+Find the latest news about the Artemis moon mission and calculate the total distance it will travel if it orbits the moon 5 times with each orbit being 10,000 km.
+Search for the latest developments in quantum computing and calculate the power consumption if a quantum computer uses 0.5 kW for 8 hours.
+Search for the latest developments in artificial intelligence and calculate the power consumption if an AI server uses 1.2 kW for 10 hours.
+How many kilometers are there in 5 miles, and what is the current weather in New York City?

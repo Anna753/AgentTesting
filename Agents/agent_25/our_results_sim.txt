@@ -1,0 +1,23 @@
+
+=== Final Error Summary Across All Mock Runs ===
+
+[Mutant Type: error]
+ Task Progression Error: Failure to Handle Malformed/Errorneous Tool Output -- Agent terminated with no final answer. — occurred 10 time(s)
+ Task Progression Error: Repetitive Reasoning -- Agent terminated with no final answer. — occurred 10 time(s)
+- Invalid Tool Invocation: Unavailable Tool Call -- Agent terminated with no final answer.: 4 time(s)
+ Task Progression Error: Agent failed to follow the expected format -- Terminate with no final answer. — occurred 2 time(s)
+
+
+[Mutant Type: partial response]
+ Task Progression Error: Failure to Handle Malformed/Errorneous Tool Output -- Agent terminated with no final answer. — occurred 8 time(s)
+ Task Progression Error: Repetitive Reasoning -- Agent terminated with no final answer. — occurred 8 time(s)
+ Task Progression Error: Inference without Evidence -- Agent terminated with a final answer (possible hallucination). — occurred 2 time(s)
+- Invalid Tool Invocation: Unavailable Tool Call -- Agent terminated with no final answer.: 1 time(s)
+ Task Progression Error: Repetitive Reasoning -- Agent terminated with a final answer. — occurred 2 time(s)
+
+[Mutant Type: no response]
+ Task Progression Error: Failure to Handle Malformed/Errorneous Tool Output -- Agent terminated with no final answer. — occurred 10 time(s)
+ Task Progression Error: Repetitive Reasoning -- Agent terminated with no final answer. — occurred 10 time(s)
+- Invalid Tool Invocation: Unavailable Tool Call -- Agent terminated with no final answer.: 1 time(s)
+ Task Progression Error: Agent failed to follow the expected format -- Terminate with no final answer. — occurred 1 time(s)
+

@@ -1,0 +1,30 @@
+Find the latest news on the COVID-19 vaccine distribution and calculate the total number of doses administered if 5 million more doses were given than the last reported 150 million doses.
+Find the latest news about the Mars Rover mission and calculate the total distance it has traveled if it covered 10 miles more than the last reported distance of 25 miles.
+What is the exchange rate of USD to Euro today and how much would 500 USD be in Euros?
+What is the current inflation rate in the UK and calculate the new price of a £50 item if the inflation rate is applied?
+What is the current exchange rate of GBP to JPY and how much would 1000 GBP be in Japanese Yen?
+What is the current price of crude oil per barrel and calculate the total cost for purchasing 100 barrels?
+Search for the latest updates on the global supply chain crisis and determine the percentage increase in shipping costs if they rose by 25% from the previous $4,000 per container.
+What is the current price of Bitcoin and how much would 0.5 Bitcoin be worth in USD?
+What is the current GDP of Germany and calculate the GDP per capita if the population is 83 million?
+Search for the latest updates on the global chip manufacturing industry and determine the increase in production capacity if a new factory increases output by 15% from the previous 200,000 units.
+What is the current unemployment rate in Canada and calculate the number of unemployed individuals if the labor force is 20 million?
+What is the current interest rate for savings accounts in the UK and calculate the annual interest earned on a deposit of £10,000?
+Search for the latest developments in electric vehicle technology and calculate the range increase if a new battery extends the range by 50 miles from the previous 250 miles.
+What is the current weather in New York City and calculate the temperature in Celsius if it is 75 degrees Fahrenheit?
+Search for the latest news on climate change policies and calculate the reduction in carbon emissions if a new policy reduces emissions by 5% from the previous 200 million tons.
+What is the current price of gold per ounce and calculate the total value of 10 ounces?
+What is the current inflation rate in the United States and calculate the new price of a $100 item if the inflation rate is applied?
+What is the current stock price of Tesla and how much would 10 shares cost?
+What is the current population of Japan and what would be the population if it increased by 5%?
+Search for the latest advancements in renewable energy technology and determine the percentage increase in efficiency if a new solar panel is 15% more efficient than the previous model with 20% efficiency.
+What is the current price of Ethereum and how much would 2 Ethereum be worth in USD?
+Search for the latest updates on the global semiconductor shortage and determine the percentage decrease in production if it dropped by 20% from the previous 100 million units.
+Search for the latest trends in artificial intelligence and determine the percentage increase in AI adoption if it grew by 10% from the previous 30% adoption rate.
+Search for the latest developments in quantum computing and calculate the increase in processing speed if a new quantum processor is 30% faster than the previous 100 qubits model.
+What is the current interest rate for a 30-year fixed mortgage in the US and calculate the monthly payment for a $300,000 loan?
+What is the current market value of Apple Inc. and calculate the total market capitalization if the number of outstanding shares is 16.5 billion?
+Find the latest updates on the Artemis Moon mission and determine the total mission duration if it is extended by 5 days from the originally planned 30 days.
+What is the current interest rate for a 15-year fixed mortgage in Australia and calculate the monthly payment for a $500,000 loan?
+Search for the latest updates on the James Webb Space Telescope and determine the total cost if the project budget increased by 10% from its original $10 billion.
+Search for the latest news on the International Space Station and calculate the total number of days it has been in orbit if it was launched on November 20, 1998.
