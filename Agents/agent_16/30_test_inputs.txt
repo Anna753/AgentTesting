@@ -1,0 +1,30 @@
+Calculate the total cost of 5 movie tickets priced at $12.50 each and a popcorn combo for $8.75.
+What is the total cost if I buy 3 apples at $1.50 each and 2 bananas at $0.75 each?
+What is the result of subtracting a number from itself, where the number is represented as a string "30"?
+If a car travels at a speed of 70 miles per hour, how far will it travel in 0 hours?
+What is the result of dividing 10 by zero?
+What is the result of dividing a number by itself, where the number is represented as a string "10"?
+What is the result of dividing 100 by (5 - 5)?
+What is the total cost if I buy 6 notebooks at $3.25 each and a pack of pencils for $4.50?
+Calculate the result of adding "ten" to 20.
+How much interest will I earn in a year if I invest $500 at an annual interest rate of 3%?
+What is the result of adding "five" to 10?
+Calculate the perimeter of a triangle with sides measuring 7 cm, 10 cm, and 5 cm.
+Calculate the total cost if I buy 10 oranges at $0.50 each and a basket for $3.00, but apply a 10% discount on the total.
+How much will I pay in total if I buy 3 shirts priced at $25.99 each and a tie for $15.00?
+If a car travels at a speed of 60 miles per hour, how far will it travel in 2.5 hours?
+If a train travels 90 miles in 1.5 hours, what is its average speed in miles per hour?
+If a cyclist travels at a speed of 15 kilometers per hour, how far will they travel in 3 hours?
+Calculate the square root of a negative number, specifically -16.
+Determine the outcome of multiplying 8 by an undefined variable y.
+What is the average temperature if the readings for a week are 72, 75, 78, 80, 74, 77, and 79 degrees Fahrenheit?
+Determine the outcome of multiplying 7 by an undefined variable x.
+What is the result of multiplying 12 by a string "3"?
+How much will I pay in total if I buy 4 books priced at $12.99 each and a pen for $2.50?
+How much will I have left if I start with $200 and spend $75.25 on a new jacket and $30.50 on dinner?
+What is the result of subtracting a number from itself, where the number is represented as a string "20"?
+If a recipe requires 2.5 cups of flour and I want to make half the recipe, how much flour do I need?
+Calculate the area of a rectangle with a length of 8 meters and a width of 5 meters.
+How much will I save if I get a 20% discount on a jacket originally priced at $150?
+How much will I pay in total if I buy 2 pizzas priced at $15.99 each and a drink for $3.50, but the drink is free with a coupon?
+If I have $100 and I spend $45.75 on groceries, how much money will I have left?

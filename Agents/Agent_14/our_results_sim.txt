@@ -1,0 +1,14 @@
+
+=== Final Error Summary Across All Mock Runs ===
+
+[Mutant Type: error]
+ Task Progression Error: Failure to Handle Malformed/Errorneous Tool Output -- Agent terminated with no final answer. — occurred 26 time(s)
+ Task Progression Error: Repetitive Reasoning -- Agent terminated with no final answer. — occurred 26 time(s)
+
+[Mutant Type: partial response]
+ Task Progression Error: Inference without Evidence -- Agent terminated with a final answer (possible hallucination). — occurred 26 time(s)
+ Task Progression Error: Repetitive Reasoning -- Agent terminated with a final answer. — occurred 1 time(s)
+
+[Mutant Type: no response]
+ Task Progression Error: Inference without Evidence -- Agent terminated with a final answer (possible hallucination). — occurred 26 time(s)
+ Task Progression Error: Repetitive Reasoning -- Agent terminated with a final answer. — occurred 5 time(s)

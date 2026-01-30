@@ -1,0 +1,31 @@
+Please provide details on the types of cancer that are most prevalent in males and perform a calculation on the total number of deaths from cancer in 2019.
+What are the environmental factors contributing to cancer, and can you calculate the total number of cancer deaths reported in 2019?
+Can you search for information on the treatment options for lung cancer and also perform a calculation for the average survival rate?
+What are the common causes of cancer, and can you help me calculate my body mass index (BMI) to assess my obesity risk?
+Does pregnancy increases chances of cancer?
+What are the treatment options for prostate cancer, and how do they vary based on the stage of the disease?
+Can you search for information on the treatment options for lung cancer and also calculate the average survival rate for patients?
+Please provide details on the types of cancers that are most prevalent in women and calculate the percentage of those that are preventable.
+What are the systemic symptoms of cancer, and how do they differ from local symptoms in terms of diagnosis and treatment?
+Cancer survival rate?
+What are the common types of cancer in males, and can you calculate the average five-year survival rate for these cancers?
+How does exposure to ionizing radiation increase cancer risk, and what protective measures can be taken to minimize exposure?
+What is malignant mesothelioma?
+How does the consumption of processed meat influence cancer risk, and what dietary changes can help mitigate this risk?
+What are the common causes of cancer, and can you calculate the percentage of deaths attributed to tobacco use?
+What is the prognosis for colorectal cancer, and can you help me calculate the total cost of my cancer treatment?
+What are symptoms of cancer metastasis?
+How does obesity contribute to the development of cancer, and what lifestyle changes can reduce this risk?
+What are the symptoms of cancer and how can I calculate my risk factors?
+What is the prognosis for breast cancer, and can you calculate the five-year survival rate based on the statistics provided?
+What are the symptoms of cancer and how can I calculate the risk factors associated with it?
+Can you help me find information on the treatment options for lung cancer and also perform a calculation for my BMI?
+What are the symptoms of cancer and how can I calculate the risk factors associated with it?
+Can you tell me about the symptoms of lung cancer and also calculate the average survival rate for all cancers?
+What are the treatment options for prostate cancer, and how do they vary based on the stage of the disease?
+What are the common types of cancer in children, and can you provide a calculation for the percentage of children diagnosed with leukemia if there are 100 diagnosed cases and 34 are leukemia?
+I need to know about the risk factors for breast cancer and also perform a calculation for my daily calorie intake.
+How does chemotherapy work, and what are the risk factors for developing breast cancer?
+What are the treatment options for prostate cancer, and can you calculate the total cost of treatment if it is $10,000 per month for 6 months?
+What are the potential genetic mutations associated with colorectal cancer, and how can genetic counseling assist individuals with a family history of this disease?
+
