@@ -1,0 +1,30 @@
+What is the sum of all even numbers between 1 and 100?
+Determine the internal rate of return for a project with an initial investment of $5000 and cash inflows of $2000, $3000, and $2500 over three consecutive years.
+A rectangular garden has an area of 120 square meters and a width of 10 meters. What is the length of the garden?
+A spherical tank has a diameter of 10 meters. What is the maximum volume of liquid it can hold?
+What is the median of the following dataset: [23, 45, 67, 89, 34, 56, 78, 90, 12, 34]?
+A box contains 3 red balls, 4 blue balls, and 5 green balls. What is the probability of drawing a red ball and then a blue ball without replacement?
+Solve for x in the equation sin(x) = 0.5 for x in degrees.
+Determine the intersection point of the lines y = 2x + 3 and y = -x + 5.
+If a bus completes a journey in 3 hours traveling at 40 miles per hour, what distance has the bus covered?
+If a train travels at a speed of 80 km/h for 2 hours and 30 minutes, how far does it travel?
+What is the derivative of the function f(x) = 3x^3 - 5x^2 + 2x - 7?
+Find the volume of a cylinder with a radius of 4 cm and a height of 9 cm.
+If a car travels 60 miles in 1.5 hours, what is its average speed in miles per hour?
+What is the balance of a savings account after depositing $2,000 at an annual interest rate of 4% compounded quarterly for 5 years?
+If a kite is flying at a height of 50 meters with the string making an angle of 30 degrees with the ground, how long is the string to the nearest meter?
+Calculate the amount of heat energy required to raise the temperature of 200 grams of water from 20°C to 80°C.
+Calculate the net present value of a project with cash flows of $2000, $3000, and $4000 in years 1, 2, and 3 respectively at a discount rate of 8%.
+Calculate the present value of an annuity that pays $1000 per year for 5 years, with a discount rate of 7%.
+Calculate the roots of the quadratic equation 2x² + 4x + 5 = 0.
+Determine the area of a trapezoid with bases of 8 meters and 5 meters and a height of 4 meters.
+If a cylindrical container holds 50 liters of liquid, what is its height given the radius is 5 cm?
+If a population of bacteria doubles every 3 hours, how many bacteria are there after 24 hours if you start with 100 bacteria?
+Calculate the compound interest for a principal amount of $5000 at an annual interest rate of 5% over 3 years, compounded annually.
+Determine the future value of an investment of $2000 after 10 years with a monthly compounding interest rate of 3%.
+Calculate the standard deviation of the dataset [12.5, 15.3, 17.8, 21.4, 10.9, 19.7].
+Determine the monthly mortgage payment on a $300,000 loan at an annual interest rate of 4% over 30 years.
+What is the area of a triangle with a base of 10 meters and a height of 15 meters?
+Find the probability of drawing two aces consecutively from a standard deck of 52 cards without replacement.
+A rectangle has a perimeter of 30 meters, and one side is 8 meters long. What is the length of the other side?
+Solve the system of equations: 3x + 4y = 12 and 5x - 2y = 10.
