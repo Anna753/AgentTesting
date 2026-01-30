@@ -19,7 +19,7 @@ To run AgentInspect, one needs to create a virtual environment. The instructions
 The detailed description of the test inputs used to evaluate each agent along with the results obtained from different approaches is provided in [Agents](Agents).
 
 # Labeling
-The detailed agreement statistics during manual labeling and the lables obtained after agreement for both baseline and simulated settings are provided in [Labeling](Labeling).
+The detailed agreement statistics during manual labeling and the labels obtained after agreement for both baseline and simulated settings are provided in [Labeling](Labeling).
 
 # Results
 The detailed results for 35 agents in our benchmark for each RQs in the paper are provided in [Results](Results).
