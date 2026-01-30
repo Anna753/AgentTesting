@@ -1,5 +1,5 @@
 # Overview
-This repository contains source code of AgentInspect, benchmark used for empirical evaluation, and results of different RQ1s.
+This repository contains source code of AgentInspect, benchmark used for empirical evaluation, and results of different RQs.
 
 ```
 
