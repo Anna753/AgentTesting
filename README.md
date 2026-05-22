@@ -2,11 +2,13 @@
 This repository contains source code of AgentInspect, benchmark used for empirical evaluation, and results of different RQs.
 
 ```
-
+├── Ablation                               # Details of Ablation Study   
 ├── Agent_Inspect                          # Source code of AgentInspect
     ├── readme.txt                         # Intructions for using AgentInspect 
     └── requirements.txt                   # Dependency and Python virutal environment information
-├── Agents                                 # Contains the test inputs used for evaluating each agent and the results from different approaches
+├── Agents                                 # Contains the test inputs used for evaluating each agent and the results from different
+approaches
+├── Agent_Inspect_Misalignment             # Source code of extending AgentInspect for other failure modes
 ├── Labeling                               # Contains final labels used for evaluation and detailed agreement statistics
 ├── Results                                # Contains the results of different RQs
 ├── 35_Agents.txt                          # Contains the GitHub link for 35 agents in our benchmark
