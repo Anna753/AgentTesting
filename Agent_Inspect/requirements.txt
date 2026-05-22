@@ -1,0 +1,8 @@
+
+langchain-community
+langchain
+langchain-core 
+langchain-openai
+sentence-transformers 
+torch
+langchain-experimental
