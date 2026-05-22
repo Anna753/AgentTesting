@@ -12,7 +12,7 @@ This repository contains source code of AgentInspect, benchmark used for empiric
 ├── 35_Agents.txt                          # Contains the GitHub link for 35 agents in our benchmark
 ```
 # Ablation
-The details of the ablation study is provided in [Ablation]([Agents](https://github.com/Anna753/AgentTesting/tree/main/Ablation).
+The details of the ablation study is provided in [Ablation](https://github.com/Anna753/AgentTesting/tree/main/Ablation).
 
 # Agent_Inspect
 To run AgentInspect, one needs to create a virtual environment. The instructions for creating virtual environment and how to use AgentInspect are provided in [readme.txt](Agent_Inspect/readme.txt). Follow the instructions to reproduce the results.
