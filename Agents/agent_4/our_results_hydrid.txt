@@ -1,0 +1,9 @@
+
+=== Final Error Summary Across All Mock Runs ===
+
+[Mutant Type: delayed response]
+ Task Progression Error: Inference without Evidence -- Agent terminated with a final answer (possible hallucination). — occurred 23 time(s)
+
+[Mutant Type: real/simulated]
+ Task Progression Error: Repetitive Reasoning -- Agent terminated with a final answer. — occurred 25 time(s)
+ Task Progression Error: Repetitive Reasoning -- Agent terminated with no final answer. — occurred 1 time(s)
