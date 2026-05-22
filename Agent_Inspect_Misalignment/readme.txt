@@ -30,6 +30,6 @@ pip install -r requirements.txt
 		inspector.run(agent_executor,tools,"../30_test_inputs.txt")
 
 	-- Provide the agent, its integrated tools and 30 test inputs and execute it.
-	-- AgentInspect will automatically execute the agent in both baseline and simulated setting and will generate the analysis report at the end.
+	-- AgentInspect will automatically execute the agent in baseline, simulated and hybrid setting. It will generate the analysis report at the end.
 	-- The final report is saved in text files agent_inspect_results_baseline.txt and agent_inspect_results_sim.txt.
 	
