@@ -1,0 +1,10 @@
+What is the current average price per square foot for commercial real estate in downtown Miami, and how much would it cost to purchase a 5,000 square foot office space at that rate?
+Find the average property tax rate in Chicago and calculate the annual property tax for a home valued at $350,000.
+What is the current average home price in San Francisco, and how much would a 20% down payment be on such a home?
+Can you find the average rental price for a three-bedroom house in San Diego and calculate the total cost over two years if the rent increases by 6% each year and the initial monthly rent is $3,000?
+What is the current average rental price for a one-bedroom apartment in Boston, and how much would the total rent be over a year if the rent increases by 4% after six months?
+Find the average closing costs for purchasing a home in Seattle and calculate the total amount needed if the home price is $600,000, including a 15% down payment.
+What is the current average price for a single-family home in Austin, Texas, and how much would the total cost be if property taxes are 2.5% of the home value annually for five years?
+What is the current mortgage interest rate for a 30-year fixed loan in Los Angeles, and how much would the monthly payment be for a $500,000 loan at that rate?
+Determine the average home insurance cost in Houston for a property valued at $400,000, and calculate the total insurance cost over a 10-year period assuming a 3% annual increase.
+Can you find the average rental price for a two-bedroom apartment in New York City and calculate the annual cost if the rent increases by 5% each year for the next three years?

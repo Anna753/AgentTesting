@@ -1,0 +1,40 @@
+What is the average price of a three-bedroom house in San Francisco as of this month?
+Calculate the return on investment for a vacation rental property purchased for $300,000, rented out for $2,000 per month, with annual expenses of $8,000.
+Calculate the monthly mortgage payment for a $500,000 home with a 20% down payment and a 3.5% annual interest rate over 30 years.
+What is the average rental price for a two-bedroom apartment in downtown Chicago, and how does it compare to the average in the suburbs?
+Calculate the potential capital gains tax for selling a property in Atlanta purchased for $250,000 and sold for $400,000, considering current tax laws.
+What is the current average price per square foot for commercial real estate in downtown Los Angeles, and how has it changed over the past year?
+Find the current property tax rate in San Francisco and calculate the annual property tax for a home valued at $800,000.
+What are the top three neighborhoods in Los Angeles for real estate investment, and what are their average appreciation rates?
+What are the top three factors affecting property values in San Diego, and how have they changed over the past decade?
+What is the current average price of a single-family home in Austin, Texas, and how does it compare to the average price in Dallas?
+Determine the average time on the market for residential properties in Chicago and compare it to the national average.
+Find the average property tax rate in Orlando, Florida, and calculate the annual tax for a property valued at $450,000.
+Find the current rental vacancy rate in San Francisco and analyze its impact on rental prices for one-bedroom apartments.
+What is the average rental price for a three-bedroom apartment in downtown Seattle, and how does it compare to the average in the suburbs?
+What is the historical trend of property taxes in Houston over the last 20 years, and how does it correlate with property value changes?
+Determine the appreciation rate of commercial properties in Los Angeles over the past decade and calculate the current value of a property purchased for $2,000,000 ten years ago.
+Calculate the return on investment for a rental property purchased for $200,000, rented out for $1,500 per month, with annual expenses of $5,000.
+Find the average square footage of a single-family home in Seattle and compare it to the average in Portland.
+What is the current zoning regulation for residential properties in Los Angeles, and how does it affect the potential for building a multi-family unit?
+What are the current building codes for residential properties in Seattle, and how do they affect the cost of constructing a new single-family home?
+Calculate the annual return on investment for a commercial property in New York City purchased for $1,000,000, with monthly rental income of $8,000 and annual expenses of $20,000.
+What is the average rental price for a studio apartment in downtown Miami, and how does it compare to the average in the suburbs?
+What is the current average price of a condominium in downtown Boston, and how has it changed over the past year?
+Find the current property tax rate in Austin, Texas, and calculate the annual property tax for a home valued at $350,000.
+Determine the appreciation rate of residential properties in Miami over the past five years and calculate the current value of a property purchased for $300,000 five years ago.
+Calculate the return on investment for a commercial property purchased for $750,000, rented out for $5,000 per month, with annual expenses of $10,000.
+Calculate the break-even point for a real estate investment in Boston, where the property is purchased for $600,000, rented out for $2,000 per month, with annual expenses of $7,000.
+Calculate the monthly mortgage payment for a $750,000 home with a 15% down payment and a 4% annual interest rate over 20 years.
+What are the current interest rates for a 10-year adjustable-rate mortgage, and how do they compare to the rates for a 30-year fixed mortgage?
+Determine the current vacancy rate for commercial properties in downtown Denver and calculate its impact on rental prices.
+Calculate the monthly mortgage payment for a $650,000 home with a 25% down payment and a 3.8% annual interest rate over 15 years.
+What are the top three cities in Texas for real estate investment in terms of appreciation rates, and what are their respective rates over the past five years?
+What are the top three neighborhoods in San Francisco for first-time homebuyers, and what are their average home prices?
+Find the current property tax rate in Denver, Colorado, and calculate the annual property tax for a home valued at $500,000.
+What are the current zoning regulations for commercial properties in New York City, and how do they affect the potential for building a mixed-use development?
+Determine the depreciation rate of commercial properties in Chicago over the past decade and calculate the current value of a property purchased for $1,000,000 ten years ago.
+What are the top three neighborhoods in New York City for rental yield, and what are their average rental yields?
+Calculate the total cost of purchasing a $750,000 home in Boston, including a 10% down payment, closing costs estimated at 3%, and a 4% annual interest rate over 25 years.
+What are the environmental regulations affecting new residential developments in Miami, and how do they impact construction costs?
+What are the current interest rates for a 15-year fixed mortgage, and how do they compare to the rates for a 30-year fixed mortgage?
