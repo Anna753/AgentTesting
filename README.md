@@ -11,9 +11,14 @@ This repository contains source code of AgentInspect, benchmark used for empiric
 ├── Results                                # Contains the results of different RQs
 ├── 35_Agents.txt                          # Contains the GitHub link for 35 agents in our benchmark
 ```
+# Ablation
+The details of the ablation study is provided in [Ablation]([Agents](https://github.com/Anna753/AgentTesting/tree/main/Ablation).
 
 # Agent_Inspect
 To run AgentInspect, one needs to create a virtual environment. The instructions for creating virtual environment and how to use AgentInspect are provided in [readme.txt](Agent_Inspect/readme.txt). Follow the instructions to reproduce the results.
+
+# Agent_Inspect_Misalignment
+The implementation for extending the approach for semantic level failures is available in [Agent_Inspect_Misalignment]([Agent_Inspect/readme.txt](https://github.com/Anna753/AgentTesting/tree/main/Agent_Inspect_Misalignment)). 
 
 # Agents
 The detailed description of the test inputs used to evaluate each agent along with the results obtained from different approaches is provided in [Agents](Agents).
